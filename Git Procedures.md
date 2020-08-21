@@ -1,6 +1,6 @@
 This guide summarizes common procedures for using GitHub. 
 
-The master branch stores the current version of SMUC which has been finalized and tested. **Do NOT make commits straight to the master branch.** Instead, create a test branch forked off from the master branch for your project. 
+The master branch stores the current version of SMUC which has been finalized and tested. **Do NOT commit directly to the master branch.** Instead, commit to a test branch forked off from the master branch for your project. 
 
 # Create Project Branch:
 
